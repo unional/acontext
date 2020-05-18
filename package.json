@@ -41,7 +41,7 @@
     "babel-jest": "^24.9.0",
     "babel-loader": "^8.0.6",
     "codacy-coverage": "^3.4.0",
-    "codecov": "^3.6.5",
+    "codecov": "^3.7.0",
     "commitlint-circle": "^1.0.0",
     "husky": "^4.2.3",
     "jest": "^24.9.0",
